@@ -125,3 +125,6 @@ work_dirs
 # venus
 venus_run.sh
 
+data/coco
+gmon.out
+output
